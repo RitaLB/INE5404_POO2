@@ -1,0 +1,2 @@
+def hello():
+	return "Olá, sou a Rita Louro e tenho 19 anos. No meu tempo livre gosto de andar de skate, desenhar,ler,  surfar e ir pra praia. antes de entrar na faculdade não tive nenhuma experiência com programação, então está sendo um mundo totalmente novo para mim. Espero que com essa disciplina eu aprenda mais a programar e me sinta mais confiante em minhas habilidades nessa área. " #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina

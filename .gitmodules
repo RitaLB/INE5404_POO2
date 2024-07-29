@@ -1,0 +1,3 @@
+[submodule "projeto_final"]
+	path = projeto_final
+	url = git@github.com:INE-UFSC/projeto-final-grupo-3-23-1.git
